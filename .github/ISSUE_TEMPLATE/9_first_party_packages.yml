@@ -32,7 +32,6 @@ body:
         - camera
         - cross_file
         - css_colors
-        - dynamic_layouts
         - espresso
         - extension_google_sign_in_as_googleapis_auth
         - file_selector
@@ -42,22 +41,25 @@ body:
         - flutter_markdown
         - flutter_migrate
         - flutter_plugin_android_lifecycle
+        - flutter_svg
         - flutter_template_images
         - go_router
         - go_router_builder
+        - google_adsense
         - google_identity_services_web
         - google_maps_flutter
         - google_sign_in
         - image_picker
         - in_app_purchase
+        - interactive_media_ads
         - ios_platform_images
         - local_auth
         - metrics_center
         - multicast_dns
         - palette_generator
+        - path_parsing
         - path_provider
         - pigeon
-        - platform
         - plugin_platform_interface
         - pointer_interceptor
         - process
@@ -67,6 +69,7 @@ body:
         - standard_message_codec
         - two_dimensional_scrollables
         - url_launcher
+        - vector_graphics
         - video_player
         - web_benchmarks
         - webview_flutter

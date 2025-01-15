@@ -144,6 +144,7 @@
   "menuDismissLabel": "Chitha imenyu",
   "lookUpButtonLabel": "Bheka Phezulu",
   "searchWebButtonLabel": "Sesha Iwebhu",
-  "shareButtonLabel": "Yabelana...",
-  "clearButtonTooltip": "Clear text"
+  "shareButtonLabel": "Yabelana",
+  "clearButtonTooltip": "Sula umbhalo",
+  "selectedDateLabel": "Okukhethiwe"
 }

@@ -144,6 +144,7 @@
   "menuDismissLabel": "Maak kieslys toe",
   "lookUpButtonLabel": "Kyk op",
   "searchWebButtonLabel": "Deursoek web",
-  "shareButtonLabel": "Deel …",
-  "clearButtonTooltip": "Clear text"
+  "shareButtonLabel": "Deel",
+  "clearButtonTooltip": "Vee teks uit",
+  "selectedDateLabel": "Gekies"
 }

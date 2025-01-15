@@ -144,6 +144,7 @@
   "menuDismissLabel": "Ignora menu",
   "lookUpButtonLabel": "Cerca",
   "searchWebButtonLabel": "Cerca sul web",
-  "shareButtonLabel": "Condividi…",
-  "clearButtonTooltip": "Clear text"
+  "shareButtonLabel": "Condividi",
+  "clearButtonTooltip": "Cancella testo",
+  "selectedDateLabel": "Selezionata"
 }

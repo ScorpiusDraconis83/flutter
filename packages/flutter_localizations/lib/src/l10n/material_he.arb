@@ -150,6 +150,7 @@
   "menuDismissLabel": "סגירת התפריט",
   "lookUpButtonLabel": "חיפוש",
   "searchWebButtonLabel": "חיפוש באינטרנט",
-  "shareButtonLabel": "שיתוף…",
-  "clearButtonTooltip": "Clear text"
+  "shareButtonLabel": "שיתוף",
+  "clearButtonTooltip": "מחיקת הטקסט",
+  "selectedDateLabel": "התאריך שנבחר"
 }

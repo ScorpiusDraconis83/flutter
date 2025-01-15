@@ -144,6 +144,7 @@
   "menuDismissLabel": "Menyuni yopish",
   "lookUpButtonLabel": "Tepaga qarang",
   "searchWebButtonLabel": "Internetdan qidirish",
-  "shareButtonLabel": "Ulashish…",
-  "clearButtonTooltip": "Clear text"
+  "shareButtonLabel": "Ulashish",
+  "clearButtonTooltip": "Matnni tozalash",
+  "selectedDateLabel": "Tanlangan"
 }
