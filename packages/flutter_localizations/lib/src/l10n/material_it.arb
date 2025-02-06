@@ -56,7 +56,7 @@
   "refreshIndicatorSemanticLabel": "Aggiorna",
   "moreButtonTooltip": "Altro",
   "dateSeparator": "/",
-  "dateHelpText": "mm/gg/aaaa",
+  "dateHelpText": "gg/mm/aaaa",
   "selectYearSemanticsLabel": "Seleziona anno",
   "unspecifiedDate": "Data",
   "unspecifiedDateRange": "Intervallo di date",
@@ -144,6 +144,7 @@
   "menuDismissLabel": "Ignora menu",
   "lookUpButtonLabel": "Cerca",
   "searchWebButtonLabel": "Cerca sul web",
-  "shareButtonLabel": "Condividi…",
-  "clearButtonTooltip": "Clear text"
+  "shareButtonLabel": "Condividi",
+  "clearButtonTooltip": "Cancella testo",
+  "selectedDateLabel": "Selezionata"
 }

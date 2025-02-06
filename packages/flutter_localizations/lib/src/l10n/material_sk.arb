@@ -150,6 +150,7 @@
   "menuDismissLabel": "Zavrieť ponuku",
   "lookUpButtonLabel": "Pohľad nahor",
   "searchWebButtonLabel": "Hľadať na webe",
-  "shareButtonLabel": "Zdieľať…",
-  "clearButtonTooltip": "Clear text"
+  "shareButtonLabel": "Zdieľať",
+  "clearButtonTooltip": "Vymazať text",
+  "selectedDateLabel": "Vybrané"
 }
