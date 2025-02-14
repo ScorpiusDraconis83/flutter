@@ -147,6 +147,7 @@
   "menuDismissLabel": "Odbacivanje menija",
   "lookUpButtonLabel": "Pogled nagore",
   "searchWebButtonLabel": "Pretraži Web",
-  "shareButtonLabel": "Dijeli...",
-  "clearButtonTooltip": "Clear text"
+  "shareButtonLabel": "Dijeli",
+  "clearButtonTooltip": "Brisanje teksta",
+  "selectedDateLabel": "Odabrano"
 }

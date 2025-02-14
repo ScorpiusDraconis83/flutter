@@ -144,6 +144,7 @@
   "menuDismissLabel": "Luk menu",
   "lookUpButtonLabel": "Slå op",
   "searchWebButtonLabel": "Søg på nettet",
-  "shareButtonLabel": "Del…",
-  "clearButtonTooltip": "Clear text"
+  "shareButtonLabel": "Del",
+  "clearButtonTooltip": "Ryd tekst",
+  "selectedDateLabel": "Valgt"
 }
